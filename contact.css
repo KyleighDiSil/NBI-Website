@@ -1,0 +1,20 @@
+  /* Projects section */
+  
+  .projects-section {
+    text-align: center;
+    padding: 10rem 2rem;
+    background: var(--main-white);
+  }
+ 
+  /* Footer */
+  
+  footer {
+    background: var(--main-gray);
+    border-top: 4px solid var(--main-red);
+  }
+
+  footer p{
+      color: var(--main-white);
+  }
+
+  
