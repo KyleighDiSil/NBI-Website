@@ -17,4 +17,7 @@
       color: var(--main-white);
   }
 
-  
+  h1{
+    color: black;
+    padding-bottom: 10px;
+  }
