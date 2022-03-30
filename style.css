@@ -12,6 +12,15 @@
     padding: 0;
   }
   
+  /*Images*/
+  #logo{
+    
+  }
+  #group1{
+    width: 50vw;
+    min-width: 600px;
+    min-height: auto;
+  }
   /* box-sizing and font sizing */
   *,
   *::before,
@@ -84,7 +93,9 @@
   }
   
   h1 {
-    font-size: 6rem;
+    margin: 20px;
+    font-size: 5rem;
+    color: black;
   }
   
   h2 {
@@ -98,10 +109,6 @@
   a {
     text-decoration: none;
     color: var(--main-white);
-  }
-  
-  img {
-    display: block;
   }
   
   /* nav */
