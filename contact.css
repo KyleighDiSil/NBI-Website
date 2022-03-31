@@ -24,5 +24,26 @@
 
   #contact_info{
     color: black;
-    
   }
+
+  .projects-section {
+    text-align: center;
+    padding: 10rem 2rem;
+    padding-bottom: 20px;
+    border-top: 4px solid var(--main-gray);
+  }
+
+  .projects-section-mentors{
+    text-align: center;
+    padding: 10rem 2rem;
+    padding-bottom: 20px;
+    border-top: 4px solid var(--main-red);
+    background-color: #f0f0f0;
+  }
+
+
+@media only screen and (min-width: 1200px) {
+  .projects-grid{
+    max-width: 60%;
+  }
+}
